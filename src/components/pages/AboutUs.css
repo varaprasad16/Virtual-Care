@@ -1,0 +1,18 @@
+.para {
+  margin-top: 50px;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  columns: auto;
+  font-size: 20px;
+}
+
+.aboutus {
+  display: flex;
+  height: 10vh;
+  margin-top: 10vh;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  text-indent: 30px;
+}

@@ -1,0 +1,8 @@
+.addbtn {
+    color: aliceblue;
+    background-color: #00ced1;
+    text-align: right;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 10%;
+}
